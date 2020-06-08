@@ -1,2 +1,2 @@
 # DungeonDefendersSDK
-sdk hack for dungeon defenders
+DLL hack for dungeon defenders
